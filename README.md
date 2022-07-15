@@ -1,24 +1,39 @@
-# README
+# Mealsy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is just a meal-planning application, featuring Hotwire as well as:
 
-Things you may want to cover:
+- Ruby on Rails 7.0.3.1
+- Ruby 3.1.2
+- HTML5
+- PostgreSQL (Tested for 14.x)
+- Testing: Minitest
+- Code Bundler: esbuild 0.14.49
 
-* Ruby version
+## Setup
 
-* System dependencies
+How to run tests:
 
-* Configuration
+```
+% rails test or rails t for short
+```
 
-* Database creation
+How to run the development console:
 
-* Database initialization
+```
+% rails console or rails c for short
+```
 
-* How to run the test suite
+How to run the development server:
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+% rails server or rails s for short
+```
 
-* Deployment instructions
+How to prepare (create and migrate) DB for `development` and `test` environments:
 
-* ...
+```
+% rails db:create
+
+% rails db:migrate
+```
+..
