@@ -10,7 +10,7 @@
 - Ruby 3.1.2
 - HTML5
 - PostgreSQL (Tested for 14.x)
-- Testing: Minitest
+- Testing: Minitest 5.16.2
 - Code Bundler: esbuild 0.14.49
 
 ## Setup
