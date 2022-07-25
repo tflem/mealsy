@@ -1,3 +1,7 @@
+![Mealsy workflow](https://github.com/tflem/mealsy/actions/workflows/mealsy.yml/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a7e76e1bc7bf134e3006/maintainability)](https://codeclimate.com/github/tflem/mealsy/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a7e76e1bc7bf134e3006/test_coverage)](https://codeclimate.com/github/tflem/mealsy/test_coverage)
+
 # Mealsy
 
 > This is just a meal-planning application, featuring Hotwire as well as:
