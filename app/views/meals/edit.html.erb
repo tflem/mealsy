@@ -1,0 +1,9 @@
+<main class="container">
+  <%= link_to sanitize("&larr; Back to meal"), meal_path(@meal) %>
+
+  <div class="header">
+    <h1>Edit Meal</h1>
+  </div>
+
+  <%= render "form", meal: @meal %>
+</main>

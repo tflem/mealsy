@@ -1,0 +1,14 @@
+en:
+  simple_form:
+    placeholders:
+      meal:
+        name: Name of your meal
+    labels:
+      meal:
+        name: Name
+
+  helpers:
+    submit:
+      meal:
+        create: Create Meal
+        update: Update Meal

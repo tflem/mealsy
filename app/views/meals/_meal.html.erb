@@ -1,0 +1,12 @@
+<div class="meal">
+  <%= link_to meal.name, meal_path(meal) %>
+  <div class="meal__actions">
+    <%= button_to "Delete Meal",
+                  meal_path(meal),
+                  method: :delete,
+                  class: "btn btn--light" %>
+    <%= link_to "Edit Meal",
+                edit_meal_path(meal),
+                class: "btn btn--light" %>
+  </div>
+</div>
