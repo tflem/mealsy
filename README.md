@@ -6,7 +6,7 @@
 
 > This is just a meal-planning application, featuring Hotwire as well as:
 
-- Ruby on Rails 7.0.4.2
+- Ruby on Rails 7.0.4.3
 - Ruby 3.1.2
 - HTML5 and Sass 1.59.2
 - PostgreSQL (Tested for 15.x)
