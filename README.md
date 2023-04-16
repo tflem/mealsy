@@ -8,11 +8,11 @@
 
 - Ruby on Rails 7.0.4.3
 - Ruby 3.1.2
-- HTML5 and Sass 1.61.0
+- HTML5 and Sass 1.62.0
 - PostgreSQL (Tested for 15.x)
 - Testing: Minitest 5.18.0
 - Hotwired/Turbo Rails 7.3.0
-- Code Bundler: esbuild 0.17.15
+- Code Bundler: esbuild 0.17.16
 
 ## Setup
 
