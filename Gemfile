@@ -27,7 +27,7 @@ end
 
 group :test do
   gem "capybara"
-  gem "selenium-webdriver"
+  gem "cuprite"
   gem "webdrivers"
   gem "simplecov", "~> 0.21.2"
   gem "simplecov_json_formatter", "~> 0.1.4"
