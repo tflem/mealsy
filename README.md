@@ -4,7 +4,7 @@
 
 # Mealsy
 
-> This is just a meal-planning application, featuring Hotwire as well as:
+> This is just a basic meal-planning application, featuring Hotwire as well as:
 
 - Ruby on Rails 7.0.6
 - Ruby 3.2.2
