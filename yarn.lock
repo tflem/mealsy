@@ -122,18 +122,18 @@
   resolved "https://registry.yarnpkg.com/@hotwired/stimulus/-/stimulus-3.2.2.tgz#071aab59c600fed95b97939e605ff261a4251608"
   integrity sha512-eGeIqNOQpXoPAIP7tC1+1Yc1yl1xnwYqg+3mzqxyrbE5pg5YFBZcA6YoTiByJB6DKAEsiWtl6tjTJS4IYtbB7A==
 
-"@hotwired/turbo-rails@^8.0.0-beta.2":
-  version "8.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/@hotwired/turbo-rails/-/turbo-rails-8.0.0-beta.2.tgz#691f8e05ad97f4c192953c4d14d5c288badb3498"
-  integrity sha512-t/e2FvOrhkDOWygsxqJ/drCz74j16hfq3wobzST9qFp7wBZXbGuw0dxB7sPpC+4I9s726KKR5ZaN+D8zaaGfPg==
+"@hotwired/turbo-rails@^8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@hotwired/turbo-rails/-/turbo-rails-8.0.1.tgz#361544d73bb70ab157578cd2ad7b32159fe017ec"
+  integrity sha512-E4um0sxC3d4Tts7HCDMjwFILs3FBsuv0hI7MU9srseFgOZLoRVJHI8aAa46ws9sdXOuOjbjeH38d5affhd7shg==
   dependencies:
-    "@hotwired/turbo" "^8.0.0-beta.2"
+    "@hotwired/turbo" "^8.0.1"
     "@rails/actioncable" "^7.0"
 
-"@hotwired/turbo@^8.0.0-beta.2":
-  version "8.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/@hotwired/turbo/-/turbo-8.0.0-beta.2.tgz#f9d01a0ca788ed5bf78a1746e06c3244af2b7535"
-  integrity sha512-Ewdz4m+rlBXiqU8hXC9qjrA6/gaYlwUWbab8M/+/PW3KEoZ36pqvLt4l7wEXELPk699bRXVFS08mt3icJ0idfg==
+"@hotwired/turbo@^8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@hotwired/turbo/-/turbo-8.0.1.tgz#0f4be48f43e96237181b31879258498b9f0d15d6"
+  integrity sha512-6DdRoFV8p1qM2YxieZ0McSzFfdKHH85FQn3C8UpLDgyD1UDb3ERhUsXg65M6nPuZeHtBZLY4hUumMdaAP0N1+w==
 
 "@rails/actioncable@^7.0":
   version "7.0.3"
