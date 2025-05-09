@@ -12,7 +12,7 @@
 - PostgreSQL (Tested for 17.x)
 - Testing: Minitest 5.25.5
 - Hotwired/Turbo Rails 8.0.13
-- Code Bundler: esbuild 0.25.3
+- Code Bundler: esbuild 0.25.4
 
 ## Setup
 

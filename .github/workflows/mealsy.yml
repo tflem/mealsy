@@ -1,6 +1,8 @@
 name: build
 on: [push]
-jobs:
+jobs:permissions:
+  contents: read
+  pull-requests: read
   build:
     runs-on: ubuntu-latest
     services:
