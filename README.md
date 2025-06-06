@@ -11,7 +11,7 @@
 - HTML5 and Sass 1.89.1
 - PostgreSQL (Tested for 17.x)
 - Testing: Minitest 5.25.5
-- Hotwired/Turbo Rails 8.0.13
+- Hotwired/Turbo Rails 8.0.16
 - Code Bundler: esbuild 0.25.5
 
 ## Setup
