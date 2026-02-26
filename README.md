@@ -6,13 +6,13 @@
 
 > This is just a basic meal-planning application, featuring Hotwire as well as:
 
-- Ruby on Rails 8.0.4
-- Ruby 3.4.7
-- HTML5 and Sass 1.93.2
-- PostgreSQL (Tested for 17.x)
-- Testing: Minitest 5.25.5
-- Hotwired/Turbo Rails 8.0.20
-- Code Bundler: esbuild 0.25.11
+- Ruby on Rails 8.1.2
+- Ruby 3.4.8
+- HTML5 and Sass 1.97.3
+- PostgreSQL (Tested for 18.x)
+- Testing: Minitest 6.0.2
+- Hotwired/Turbo Rails 8.0.23
+- Code Bundler: esbuild 0.27.3
 
 ## Setup
 
