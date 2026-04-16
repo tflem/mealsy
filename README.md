@@ -9,7 +9,7 @@
 - Ruby 3.4.8
 - HTML5 and Sass 1.99.0
 - PostgreSQL (Tested for 18.x)
-- Testing: Minitest 6.0.2
+- Testing: Minitest 6.0.4
 - Hotwired/Turbo Rails 8.0.23
 - Code Bundler: esbuild 0.28.0
 
